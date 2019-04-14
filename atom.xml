@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>简单之美</title>
+  
+  <subtitle>从0到1</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://LiKuan666.github.io/"/>
+  <updated>2019-04-14T15:15:20.981Z</updated>
+  <id>http://LiKuan666.github.io/</id>
+  
+  <author>
+    <name>李宽</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>应用软件清单</title>
+    <link href="http://LiKuan666.github.io/2019/04/11/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%B8%85%E5%8D%95/"/>
+    <id>http://LiKuan666.github.io/2019/04/11/应用软件清单/</id>
+    <published>2019-04-11T07:50:19.000Z</published>
+    <updated>2019-04-14T15:15:20.981Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>以下破解版软件仅供学习</p></blockquote><h2 id="浏览器"><a href="#浏览器" class="headerlink" title="浏览器"></a>浏览器</h2><ol><li><a href="https://www.google.cn/chrome" target="_blank" rel="noopener">谷歌浏览器</a>(<strong>必装</strong>)<ol><li><a href="http://www.ggfwzs.com/" target="_blank" rel="noopener">谷歌访问助手</a>(可访问谷歌搜索，主要用于下载插件，<strong>必装</strong>)</li><li><a href="https://listen1.github.io/listen1/" target="_blank" rel="noopener">Listen 1</a>(听歌，<strong>必装</strong>)</li><li><a href="https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E5%87%80%E5%8C%96%E5%99%A8/cbiaicifbmeokbhollcjfeaoakmppfeh?utm_source=chrome-ntp-icon" target="_blank" rel="noopener">广告净化器</a>(过滤广告，<strong>必装</strong>)</li><li><a href="https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo?utm_source=chrome-ntp-icon" target="_blank" rel="noopener">crxMouse Chrome™ 手势</a>(原名:Gestures for Chrome(TM)汉化版，<strong>必装</strong>)</li><li><a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-ntp-icon" target="_blank" rel="noopener">Tampermonkey</a>(猴油，可安装各种实用脚本，<strong>必装</strong>)</li><li><a href="https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco?utm_source=chrome-ntp-icon" target="_blank" rel="noopener">扩展管理器</a>(一键管理所有扩展，<strong>必装</strong>)<a id="more"></a></li><li><a href="https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb?utm_source=chrome-ntp-icon" target="_blank" rel="noopener">掘金</a>(为程序员、设计师、产品经理每日发现优质内容，<strong>必装</strong>)</li><li><a href="https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg?utm_source=chrome-ntp-icon" target="_blank" rel="noopener">沙拉查词-聚合词典划词翻译</a>(<strong>必装</strong>)</li><li><a href="https://chrome.google.com/webstore/detail/charset/oenllhgkiiljibhfagbfogdbchhdchml?utm_source=chrome-ntp-icon" target="_blank" rel="noopener">Charset</a>(修改网站的默认编码)</li><li><a href="https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn?utm_source=chrome-ntp-icon" target="_blank" rel="noopener">Chrono</a>(下载管理器)</li><li><a href="https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod?utm_source=chrome-ntp-icon" target="_blank" rel="noopener">Click&amp;Clean</a>{:target=”_blank”}(删除你的浏览历史,防止他人跟踪你的网上活动)</li><li><a href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?utm_source=chrome-ntp-icon" target="_blank" rel="noopener">Octotree</a>(方便查看GitHub的代码树)</li></ol></li></ol><h2 id="卸载工具"><a href="#卸载工具" class="headerlink" title="卸载工具"></a>卸载工具</h2><ol><li><a href="https://geekuninstaller.com/download" target="_blank" rel="noopener">Geek Uninstaller</a>(免费强大且快速的卸载工具)</li></ol><h2 id="影音"><a href="#影音" class="headerlink" title="影音"></a>影音</h2><ol><li><a href="https://listen1.github.io/listen1/" target="_blank" rel="noopener">Listen 1</a>(有winsow版本，在线听歌，建议下载谷歌插件即可)</li><li><a href="http://www.foobar2000.org/" target="_blank" rel="noopener">foobar</a>(离线播放器)</li><li><a href="https://www.lanzous.com/b245307/" target="_blank" rel="noopener">MusicTools</a>(无损付费音乐免费下载工具)</li><li><a href="http://www.potplayer.org/" target="_blank" rel="noopener">PotPlayer</a>(电影播放器，用于看高清电影和学习视频)</li><li>几个电影下载网站<ol><li><a href="http://www.cnmkv.com/" target="_blank" rel="noopener">中国高清网</a></li><li><a href="https://www.dytt8.net/" target="_blank" rel="noopener">电影天堂</a></li></ol></li></ol><h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><ol><li><a href="http://pandownload.com/" target="_blank" rel="noopener">PanDownload</a>(百度网盘不限速)</li><li><a href="https://masuit.com/1238/%E8%BF%85%E9%9B%B7" target="_blank" rel="noopener">迅雷X</a>(去广告版绿色精简版)</li><li><a href="https://masuit.com/1277/%E4%B8%8B%E8%BD%BD" target="_blank" rel="noopener">迅雷5.8</a>(去广告典藏版，专治“应版权方要求,文件无法下载”)</li></ol><h2 id="系统工具-必装，免费开源，开机自启常驻"><a href="#系统工具-必装，免费开源，开机自启常驻" class="headerlink" title="系统工具(必装，免费开源，开机自启常驻)"></a>系统工具(必装，免费开源，开机自启常驻)</h2><ol><li><a href="https://github.com/zhongyang219/TrafficMonitor" target="_blank" rel="noopener">TrafficMonitor</a>(显示当前网速、CPU及内存利用率)</li><li><a href="http://www.yingdev.com/projects/wgestures" target="_blank" rel="noopener">WGestures</a>(全局鼠标手势)</li><li><a href="https://zh.snipaste.com/" target="_blank" rel="noopener">SnipPaste</a>(不只是截图，善用贴图功能将帮助你提升工作效率！)</li><li><a href="https://ditto-cp.sourceforge.io/index.php" target="_blank" rel="noopener">Ditto</a>(剪切板增强工具)</li></ol><h2 id="压缩软件"><a href="#压缩软件" class="headerlink" title="压缩软件"></a>压缩软件</h2><ol><li><a href="https://www.7-zip.org/" target="_blank" rel="noopener">7-Zip</a>(自由软件与开源的压缩软件)</li></ol><h2 id="阅读器"><a href="#阅读器" class="headerlink" title="阅读器"></a>阅读器</h2><ol><li><a href="https://www.sumatrapdfreader.org/download-free-pdf-viewer.html" target="_blank" rel="noopener">Sumatra PDF</a>(开源轻量级PDF阅读器，查看一些pdf书和帮助文档)</li></ol><h2 id="gif动画录制软件"><a href="#gif动画录制软件" class="headerlink" title="gif动画录制软件"></a>gif动画录制软件</h2><ol><li><a href="https://www.screentogif.com/" target="_blank" rel="noopener">ScreenToGif</a></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;以下破解版软件仅供学习&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;浏览器&quot;&gt;&lt;a href=&quot;#浏览器&quot; class=&quot;headerlink&quot; title=&quot;浏览器&quot;&gt;&lt;/a&gt;浏览器&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.google.cn/chrome&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;谷歌浏览器&lt;/a&gt;(&lt;strong&gt;必装&lt;/strong&gt;)&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ggfwzs.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;谷歌访问助手&lt;/a&gt;(可访问谷歌搜索，主要用于下载插件，&lt;strong&gt;必装&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://listen1.github.io/listen1/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Listen 1&lt;/a&gt;(听歌，&lt;strong&gt;必装&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E5%87%80%E5%8C%96%E5%99%A8/cbiaicifbmeokbhollcjfeaoakmppfeh?utm_source=chrome-ntp-icon&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;广告净化器&lt;/a&gt;(过滤广告，&lt;strong&gt;必装&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo?utm_source=chrome-ntp-icon&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;crxMouse Chrome™ 手势&lt;/a&gt;(原名:Gestures for Chrome(TM)汉化版，&lt;strong&gt;必装&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-ntp-icon&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Tampermonkey&lt;/a&gt;(猴油，可安装各种实用脚本，&lt;strong&gt;必装&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco?utm_source=chrome-ntp-icon&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;扩展管理器&lt;/a&gt;(一键管理所有扩展，&lt;strong&gt;必装&lt;/strong&gt;)
+    
+    </summary>
+    
+      <category term="software" scheme="http://LiKuan666.github.io/categories/software/"/>
+    
+    
+      <category term="software" scheme="http://LiKuan666.github.io/tags/software/"/>
+    
+      <category term="google" scheme="http://LiKuan666.github.io/tags/google/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://LiKuan666.github.io/2019/04/10/hello-world/"/>
+    <id>http://LiKuan666.github.io/2019/04/10/hello-world/</id>
+    <published>2019-04-10T13:34:22.263Z</published>
+    <updated>2019-04-10T13:34:22.263Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
